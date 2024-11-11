@@ -1,0 +1,65 @@
+@media (max-width: 320px){
+    .baner-section{
+        height: 50vh !important;
+
+
+    }
+    .baner-section img{
+        height: 50vh !important;
+        object-fit: cover;
+
+
+    }
+    .map-section{
+        height: 50vh !important;
+    }
+    .map-section img{
+        height: 50vh !important;
+        object-fit: cover;
+    }
+}
+ @media (min-width: 320px) and (max-width:480px){
+    .baner-section{
+        height: 50vh !important;
+
+
+    }
+    .baner-section img{
+        height: 50vh !important;
+        object-fit: cover;
+
+
+    }
+    .map-section{
+        height: 50vh !important;
+    }
+    .map-section img{
+        height: 50vh !important;
+        object-fit: cover;
+    }
+
+}
+@media (min-width: 768px) and (max-width:991px){
+    .baner-section{
+        height: 100vh !important;
+
+
+    }
+    .baner-section img{
+        height: 100vh !important;
+        object-fit: cover;
+
+
+    }
+    .map-section{
+        height: 100vh !important;
+    }
+    .map-section img{
+        height:100vh !important;
+        object-fit: cover;
+    }
+
+
+}
+
+    

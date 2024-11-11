@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ /* .header-section .navbar{
+    background: transparent;
+    position: fixed;
+    width: 100%;
+    z-index: 999999;
+ } */
+
+/*---------- baner-section start-------- */
+.baner-section img {
+    height: 700px;
+}
+
+.baner-section .hedding{
+    width: 800px;
+    top: 240px;
+    text-align: center;
+    color: rgb(255, 253, 253);
+}
+.baner-section .hedding h1{
+    font-size: 50px;
+}
+.baner-section .hedding p{
+    font-size: 25px;
+}
+
+/*---------- Baner section end-------- */
+
+ /* cheak our food section start */
+ .cheak-our-food-section {
+   background-color: #181a1e;
+   margin-bottom: 50px;
+ }
+ .cheak-our-food-section .container .price{
+        padding: 8px;
+        background-color: #0d6efd;
+        margin-left: 45px;
+        border-radius: 3px;
+        color: white;
+        transition: 0.5s;
+        display: inline-block;
+    }
+    .cheak-our-food-section .container .price:hover{
+        transition: 0.5s;
+        background-color: #dd6031;
+    }
+ /*- -cheak our food section end-- */
+
+ /* --Our galary section start --*/
+ .our-galary-section img{
+    width: 100%;
+    transition: 0.5s;
+
+   
+ }
+ .our-galary-section img:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+    overflow: hidden;
+    
+ }
+ /* ---Our galary section end- --*/
+
+ /* Where you can find us start */
+ .Where-you-can-find-us-section{
+    background-color:#181a1e;
+    padding: 40px;
+ }
+ .Where-you-can-find-us-section .location{
+    font-size: 30px;
+    color: #dd6031;;
+ }
+ /*-----Where you can find us end----*/
+
+
+/* -- map section start -- */
+.map-section img{
+    width: 100%;
+    height: 400px;
+ }
+/* -- map section end -- */
+
+/*---- Contact info section start-------- */
+.Contact-info-section{
+   background-color: #181a1e; 
+}
+ .Contact-info-section .container a{
+    text-decoration: none;
+    display: block;
+    color:white;
+}
+.Contact-info-section .container a i{
+    padding: 8px;
+    background-color: gray;
+    transition: 0.5s;
+}
+.Contact-info-section .container a i:hover{
+    transition: 0.5s;
+    background-color: #dd6031;
+}
+.Contact-info-section .container p{
+    color: lightcyan;
+}
+
+.Contact-info-section .card input {
+    width: 75%;
+    margin-top: 20px;
+    justify-content: center;
+    border-radius: 6px;
+    margin-left: 12%;
+    font-size: 18px;
+    padding: 6px;
+}
+
+.Contact-info-section .card a {
+    display: inline-block;
+    text-decoration: none;
+    background-color: orange;
+    color: black;
+    width: 75%;
+    text-align: center;
+    margin-left: 12%;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+/*---- Contact info section end-------- */
+
+/* -- footer section start --- */
+.footer-section {
+    background-color:#dd6031;
+    width: 100%;
+    height: 50px;
+}
+.footer-section p{
+   margin-top: 12px;
+}
+/* -- footer section end --- */
+
+
+
+
+  
